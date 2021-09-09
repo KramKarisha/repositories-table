@@ -1,4 +1,50 @@
 .App {
   text-align: center;
+  padding: 50px;
 }
 
+.table-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 70px;
+}
+
+.input-span {
+  margin-right: 10px;
+}
+
+.input {
+  height: 30px;
+}
+
+.page-span {
+  margin-right: 15px;
+}
+
+.page-button {
+  padding: 10px;
+}
+
+table {
+  width: 100%;
+  text-align: start;
+}
+
+.img-field {
+  width: 5%;
+  text-align: center;
+}
+
+.name-field {
+  width: 15%;
+  text-align: center;
+}
+
+.url-field {
+  width: 20%;
+}
+
+.description-field {
+  width: 50%;
+}
